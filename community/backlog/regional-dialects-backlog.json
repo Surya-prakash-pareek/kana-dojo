@@ -767,7 +767,7 @@
     "note": "Famous Okinawan resilience phrase. (Set 4)",
     "id": 77,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "にふぇーでーびる",
@@ -777,7 +777,7 @@
     "note": "Okinawan gratitude expression. (Set 4)",
     "id": 78,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "〜やねん",
@@ -786,7 +786,7 @@
     "region": "Kansai",
     "note": "Explanatory ending in conversation. (Set 4)",
     "id": 79,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
