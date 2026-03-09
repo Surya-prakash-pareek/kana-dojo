@@ -6,7 +6,7 @@
     "region": "Kansai",
     "note": "Very common in Osaka/Kyoto speech. (Set 1)",
     "id": 1,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1167,7 +1167,7 @@
     "note": "Famous Okinawan resilience phrase. (Set 6)",
     "id": 117,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "にふぇーでーびる",

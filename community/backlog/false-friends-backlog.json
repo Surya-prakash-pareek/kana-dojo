@@ -1004,7 +1004,7 @@
     "explanation": "ホッチキス means stapler. (Set 6)",
     "example": "資料をホッチキスで留めてください。",
     "id": 112,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
