@@ -7,7 +7,7 @@
     "mainColor": "oklch(82.0% 0.210 340.0 / 1)",
     "secondaryColor": "oklch(72.0% 0.165 285.0 / 1)",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": "bamboo-mist",
@@ -16,7 +16,7 @@
     "backgroundColor": "oklch(24.0% 0.032 150.0 / 1)",
     "mainColor": "oklch(78.0% 0.145 145.0 / 1)",
     "secondaryColor": "oklch(68.0% 0.085 130.0 / 1)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1941,7 +1941,7 @@
     "mainColor": "oklch(90.0% 0.015 95.0 / 1)",
     "secondaryColor": "oklch(58.0% 0.060 260.0 / 1)",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": "matcha-drift",
@@ -1951,7 +1951,7 @@
     "mainColor": "oklch(76.0% 0.140 135.0 / 1)",
     "secondaryColor": "oklch(72.0% 0.070 80.0 / 1)",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": "shibuya-haze",
@@ -1961,7 +1961,7 @@
     "mainColor": "oklch(82.0% 0.195 310.0 / 1)",
     "secondaryColor": "oklch(74.0% 0.140 20.0 / 1)",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": "kintsugi-gold",
@@ -1971,6 +1971,6 @@
     "mainColor": "oklch(84.0% 0.120 95.0 / 1)",
     "secondaryColor": "oklch(68.0% 0.090 60.0 / 1)",
     "issued": false,
-    "completed": false
+    "completed": true
   }
 ]
